@@ -1,7 +1,23 @@
+import Hero from "@/components/sections/Hero";
+import LogoCloud from "@/components/sections/LogoCloud";
+import CourseCatalog from "@/components/sections/CourseCatalog";
+import LearningPaths from "@/components/sections/LearningPaths";
+import ShowcaseSections from "@/components/sections/ShowcaseSections";
+import CreatorCTA from "@/components/sections/CreatorCTA";
+import Testimonials from "@/components/sections/Testimonials";
+import Footer from "@/components/layout/Footer";
+
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white flex items-center justify-center">
-      <h1 className="text-2xl font-bold text-gray-900">ByteSpace</h1>
+    <main className="min-h-screen bg-white">
+      <Hero />
+      <LogoCloud />
+      <CourseCatalog />
+      <LearningPaths />
+      <ShowcaseSections />
+      <CreatorCTA />
+      <Testimonials/>
+      <Footer/>
     </main>
   );
 }
