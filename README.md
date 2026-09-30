@@ -1,5 +1,7 @@
 # ByteSpace New
 
+> **Live demo:** [https://bytespacenew7.vercel.app/](https://bytespacenew7.vercel.app/)
+
 A modern learning & creator platform landing experience built with Next.js and Tailwind CSS. ByteSpace connects students with courses, learning paths, and creators through a bold, high-contrast design system.
 
 ## Assessment Scope
@@ -69,6 +71,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 npm run build
 npm run start
 ```
+
+## Deployment
+
+The site is live on Vercel: [bytespacenew7.vercel.app](https://bytespacenew7.vercel.app/).
 
 ## Scripts
 
