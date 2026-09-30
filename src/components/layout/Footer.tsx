@@ -65,7 +65,7 @@ export default function Footer() {
             </Link>
 
             <p className="text-gray-500 text-xs sm:text-sm font-normal pt-1">
-              Stay Up to date with our latest features and releases by joining our newsletter.[cite: 1, 30]
+              Stay Up to date with our latest features and releases by joining our newsletter.
             </p>
 
             {/* Newsletter Input Form */}
@@ -96,7 +96,7 @@ export default function Footer() {
             )}
 
             <p className="text-[11px] text-gray-400 leading-relaxed font-normal pt-1">
-              By subscribing, you agree to our Privacy Policy and consent to receive updates from our company.[cite: 1, 30]
+              By subscribing, you agree to our Privacy Policy and consent to receive updates from our company.
             </p>
           </div>
 
